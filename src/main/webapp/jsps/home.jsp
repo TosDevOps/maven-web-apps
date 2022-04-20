@@ -15,7 +15,7 @@
 	Landmark Technology is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
 	We offer interview preparations and job assitance.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY
-	TO will be great </h2>
+	TO will be great all the time</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
